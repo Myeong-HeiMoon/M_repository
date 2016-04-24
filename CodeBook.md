@@ -13,12 +13,12 @@
 
   Subject : the integer subject ID
   Activity : the string activity name :
-    1. WALKING(value 1)
-    2. WALKING UPSTAIRS (value 2)
-    3. WALKING DOWNSTAIRS (value 3)
-    4. SITTING (value 4)
-    5. STANDING (value 5)
-    6. LAYING (value 6)
+  1. WALKING(value 1)
+  2. WALKING UPSTAIRS (value 2)
+  3. WALKING DOWNSTAIRS (value 3)
+  4. SITTING (value 4)
+  5. STANDING (value 5)
+  6. LAYING (value 6)
 
 ## Measurements
 
