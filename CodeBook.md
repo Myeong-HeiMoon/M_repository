@@ -1,6 +1,6 @@
 # Code Book
 
-# Variables
+## Variables
 
   1. x_train, y_train, x_test, y_test, subject_train and subject_test contain the data from the downloaded files.
   2. x_data, y_data and subject_data merge the previous datasets to further analysis.
@@ -9,7 +9,7 @@
   5. all_data merges x_data, y_data and subject_data in a big dataset.
   6. Finally, averages_data contains the relevant averages which will be later stored in a .txt file. ddply() from the plyr package is used to apply colMeans() and ease the development.
 
-# Identifiers and Activity Labels
+## Identifiers and Activity Labels
 
   Subject : the integer subject ID
   Activity : the string activity name :
@@ -20,7 +20,7 @@
     5. STANDING (value 5)
     6. LAYING (value 6)
 
-# Measurements
+## Measurements
 
 tBodyAcc-mean()-X
 
